@@ -11,7 +11,7 @@ My first repo
 ## I can quote text using a > :-
 ### Ex:This an amaazing course
  > Teached by Razan Al-Quran  
-## I can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted:
+## I can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted:-
 ### Ex: My name is `Abdallah obaid`
 ## To format code or text into its own distinct block, use triple backticks:-
 ### Ex: Im learning:
