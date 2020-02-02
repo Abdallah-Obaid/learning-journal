@@ -11,7 +11,7 @@
 - [x] I love cats
 - [ ] I dont love cats
 
-### *I can make a table and emoji :-
+### *I can make a table and emoji :wink: :-
 Instructor | TAs
 ------------ | -------------
 Razan Al-Quran | Shihab Eshtaiwi
