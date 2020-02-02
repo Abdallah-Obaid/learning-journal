@@ -7,3 +7,9 @@
 #### 2. Syntax highlighting.
 #### 3. A nice variety of themes (to reduce eye strain andfatigue).
 #### 4. The ability to choose from a healthy selection of extensions available when you need them.
+
+**operating system** | **Default text editor**
+------------ | -------------
+Mac | Text Edit
+Windows | Notepad
+Linux | Text editors will go by different names
