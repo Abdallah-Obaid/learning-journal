@@ -22,4 +22,6 @@ Javascript
 ```
 ## I can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link:-
 ### Ex: This is my first site [Press me](https://midnightbluepungentservers.abdallahobaid.repl.co/).
-
+## To add image use this:-
+### `![name](ural)`
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
