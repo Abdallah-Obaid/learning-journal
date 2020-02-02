@@ -7,9 +7,12 @@
 #### 2. Syntax highlighting.
 #### 3. A nice variety of themes (to reduce eye strain andfatigue).
 #### 4. The ability to choose from a healthy selection of extensions available when you need them.
+### The default text editor for each operating system :-
 
 **operating system** | **Default text editor**
 ------------ | -------------
 Mac | Text Edit
 Windows | Notepad
 Linux | Text editors will go by different names
+
+![Choosing A Text Editor](https://upload.wikimedia.org/wikipedia/commons/0/03/Suplemon-v0.1.51-multi-cursor-editing.gif)
