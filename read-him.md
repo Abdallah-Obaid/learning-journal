@@ -3,11 +3,11 @@ My first repo
 # Iam Abdallah Obaid
 ## *I can create a heading by adding one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 ## *I can indicate emphasis with bold, italic, or strikethrough text:-
-### 1- Bold : **This is bold text**	
-### 2- Italic	: *This text is italicized*
-### 3- Strikethrough : ~~This was mistaken text~~	
-### 4- Bold and nested italic	: **This text is _extremely_ important**
-### 5- All bold and italic : ***All this text is important***	
+### 1. Bold : **This is bold text**	
+### 2. Italic	: *This text is italicized*
+### 3. Strikethrough : ~~This was mistaken text~~	
+### 4. Bold and nested italic	: **This text is _extremely_ important**
+### 5. All bold and italic : ***All this text is important***	
 ## *I can quote text using a > :-
 ### Ex:This an amaazing course
  > Teached by Razan Al-Quran  
