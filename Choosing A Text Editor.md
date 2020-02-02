@@ -15,4 +15,13 @@ Mac | Text Edit
 Windows | Notepad
 Linux | Text editors will go by different names
 
+### Third-Party Options :-
+#### 1. Notepad++
+#### 2. Text Wrangler
+#### 3. BB Edit
+#### 4. Visual Studio Code
+#### 5. Atom
+#### 6. Brackets
+#### 7. Sublime Text
+
 ![Choosing A Text Editor](https://upload.wikimedia.org/wikipedia/commons/0/03/Suplemon-v0.1.51-multi-cursor-editing.gif)
