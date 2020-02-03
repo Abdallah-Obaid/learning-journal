@@ -16,6 +16,7 @@
 Mac | Text Edit
 Windows | Notepad
 Linux | Text editors will go by different names
+
 **NAME** | **URL**
 ------------ | -------------
 Home | [Home](https://abdallah-obaid.github.io/learning-journal/).
