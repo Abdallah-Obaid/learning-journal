@@ -1,7 +1,7 @@
 # learning-journal
 > By Abdallah obaid
 
-**NAME** | **URL**
+## **NAME** | **URL**
 ------------ | -------------
 Home | [Home](https://abdallah-obaid.github.io/learning-journal/).
 Choosing A Text Editor | [Choosing A Text Editor](https://abdallah-obaid.github.io/learning-journal/choosing-A-Text-Editor).
