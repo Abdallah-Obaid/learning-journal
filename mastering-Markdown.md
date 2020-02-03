@@ -1,5 +1,13 @@
 # Mastering Markdown
-## Iam Abdallah Obaid
+> By Abdallah obaid
+
+**NAME** | **URL**
+------------ | -------------
+Home | [Home](https://abdallah-obaid.github.io/learning-journal/).
+Choosing A Text Editor | [Choosing A Text Editor](https://abdallah-obaid.github.io/learning-journal/choosing-A-Text-Editor).
+Git and github | [Git and github](https://abdallah-obaid.github.io/learning-journal/git-and-github).
+Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learning-journal/mastering-Markdown).
+
 ### *I can make unordered list :-
 * like this using`*`
 * like this using`*`
@@ -12,10 +20,13 @@
 - [ ] I dont love cats
 
 ### *I can make a table and emoji :wink: :-
-Instructor | TAs
+**NAME** | **URL**
 ------------ | -------------
-Razan Al-Quran | Shihab Eshtaiwi
-:smile: | Baraa Abu-Alrub
+Home | [Home](https://abdallah-obaid.github.io/learning-journal/).
+Choosing A Text Editor | [Choosing A Text Editor](https://abdallah-obaid.github.io/learning-journal/choosing-A-Text-Editor).
+Git and github | [Git and github](https://abdallah-obaid.github.io/learning-journal/git-and-github).
+Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learning-journal/mastering-Markdown)
+
 
 ### *I can create a heading by adding one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 ### *I can indicate emphasis with bold, italic, or strikethrough text and put the syntax in an ordered list:-
@@ -26,7 +37,7 @@ Razan Al-Quran | Shihab Eshtaiwi
 #### 5. All bold and italic : ***All this text is important***	
 ### *I can quote text using a > :-
 #### Ex:This an amaazing course
- > Teached by Razan Al-Quran  
+ > Teached by Razan Al-Quran.  
 ### *I can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted:-
 #### Ex: My name is `Abdallah obaid`
 ### *To format code or text into its own distinct block, use triple backticks:-
