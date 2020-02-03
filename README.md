@@ -9,7 +9,6 @@ Git and github | [Git and github](https://abdallah-obaid.github.io/learning-jour
 Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learning-journal/mastering-Markdown).
 
 
-
 ## *I'm a student at Lutc college
 
 ### Im learning about :-
