@@ -17,22 +17,22 @@ Revisions-and-the-Cloud  | [Learning Markdown](https://abdallah-obaid.github.io/
 
 
 #### To clone a repository we use:-
-##### $ git clone `repository’s URL`
+###### $ git clone `repository’s URL`
 #### To Check File Status we use:-
-##### $ git status
+###### $ git status
 #### To Commit a File we use:-
-##### $ git commit -m “Bla Bla Bla”
+###### $ git commit -m “Bla Bla Bla”
 #### To Commit All Changes we use:-
-##### $ git commit -a
+###### $ git commit -a
 #### To Push Changes we use:-
-##### $ git push origin master
+###### $ git push origin master
 #### To solve a Commit Mistakes:-
-##### $ git commit --amend
+###### $ git commit --amend
 #### To Unstaging a File:-
-##### $ git reset HEAD index.html
+###### $ git reset HEAD index.html
 #### To Undo a Committed Snapshot:-
-##### $ git revert HEAD
+###### $ git revert HEAD
 #### To merge changes:-
-##### $ git merge
+###### $ git merge
 
 ![Git merge](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
