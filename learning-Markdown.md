@@ -7,7 +7,7 @@ Home | [Home](https://abdallah-obaid.github.io/learning-journal/).
 Choosing A Text Editor | [Choosing A Text Editor](https://abdallah-obaid.github.io/learning-journal/choosing-A-Text-Editor).
 Git and github | [Git and github](https://abdallah-obaid.github.io/learning-journal/git-and-github).
 Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learning-journal/mastering-Markdown).
-Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown.
+Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown).
 
 ## *I can create a heading by adding one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 ## *I can indicate emphasis with bold, italic, or strikethrough text:-
