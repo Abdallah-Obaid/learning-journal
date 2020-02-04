@@ -10,6 +10,7 @@ Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learn
 Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown).
 lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
+
 ### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.
 ### Site maps allow you to plan the structure of a site.
 ### Wireframes allow you to organize the information that  X will need to go on each page.
