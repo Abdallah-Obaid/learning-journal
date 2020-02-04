@@ -1,42 +1,54 @@
 header {
- font-style: italic;
- background-color: #DEFFEE;
- color:#99EBCC;
- text-align:center;
- padding: 10px 5px 0 5px;
-}
-nav {
- background-color: dimgray;
- padding:3px;
-}
-nav li {
- display:inline-block;
-}
-
+    font-style: italic;
+    background-color: #DEFFEE;
+    color: rgba(18, 134, 230, 0.836);
+    text-align:center;
+    padding: 10px 5px 0 5px;
+  }
+  header nav ul li { display: inline-block;
+       
+    padding: 25px; }   
+  nav {
+    
+    background-color: dimgray;
+    padding:3px;
+  }
+  nav li {
+    display:inline-block;
+    
+  }
  
-nav a {
- color:white;
-}
-#logo {
- width: 300px;
-}
-main {
- margin: 0 auto;
- width:90%;
-}
-header img {
-width: 20%;
-/* display: block;
-margin-left: auto;
-margin-right:0; */
-/* position: absolute;
-right:0px;
-*/
-}
-footer {
- font-style: italic;
- background-color: rgb(0, 0, 0);
- color:#99EBCC;
- text-align:center;
- padding: 10px 5px 0 5px;
+    
+  nav a {
+    color:white;
+  }
+  #logo {
+    width: 300px;
+  }
+  main {
+    margin: 0 auto;
+    width:90%;
+  }
+  header img {
+   width: 15%;
+   /* display: block;
+   margin-left: auto;
+   margin-right:0; */
+   /* position: absolute;
+   right:0px;
+   */
+  }
+  footer {
+    font-style: italic;
+    background-color: rgb(0, 0, 0);
+    color:#99EBCC;
+    text-align:center;
+    padding: 10px 5px 0 5px;
+  }
+  #asd {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+        right:0 px;
 }
