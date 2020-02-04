@@ -10,18 +10,20 @@ Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learn
 Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown).
 Revisions-and-the-Cloud  | [Revisions-and-the-Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 
+### I'm living in Amman- Jordan.
+### I'm a student at Lutc college.
 
-## *I'm a student at Lutc college
-
-### Im learning about :-
+### I'm learning about :-
 ```
 HTML
 CSS
 Javascript
+GitHub and git
 ```
 
 ### This is my first site made by Html [Press me](https://midnightbluepungentservers.abdallahobaid.repl.co/).
 
+## Contact me:- +9627775500XX
 
 
 ![cat](https://as1.ftcdn.net/jpg/01/93/38/40/500_F_193384026_F34lj9rX9W4ixlVZBrTJmijK010Tdv0j.jpg)
