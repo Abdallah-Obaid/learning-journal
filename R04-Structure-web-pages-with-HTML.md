@@ -12,6 +12,7 @@ lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-ob
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 
+
 ### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.
 ### Site maps allow you to plan the structure of a site.
 ### Wireframes allow you to organize the information that  X will need to go on each page.

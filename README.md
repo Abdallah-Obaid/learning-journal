@@ -10,6 +10,7 @@ Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learn
 Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown).
 lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
+R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
