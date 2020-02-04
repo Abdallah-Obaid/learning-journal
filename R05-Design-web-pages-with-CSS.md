@@ -12,12 +12,11 @@ lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-ob
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 
-### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.
-### Site maps allow you to plan the structure of a site.
-### Wireframes allow you to organize the information that  X will need to go on each page.
-### Design is about communication. Visual hierarchy helps  X visitors understand what you are trying to tell them.
-### You can differentiate between pieces of information  X using size, color, and style. 
-### You can use grouping and similarity to help simplify  X the information you present.
+### You can specify any color in CSS in one of three ways:
+* rgb values These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(70,50,90)
+* hex Codes These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+* Color names There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
+
 
 
 
