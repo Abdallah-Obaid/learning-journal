@@ -8,7 +8,8 @@ Choosing A Text Editor | [Choosing A Text Editor](https://abdallah-obaid.github.
 Git and github | [Git and github](https://abdallah-obaid.github.io/learning-journal/git-and-github).
 Mastering Markdown | [Mastering Markdown](https://abdallah-obaid.github.io/learning-journal/mastering-Markdown).
 Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learning-journal/learning-Markdown).
-Revisions-and-the-Cloud  | [Revisions-and-the-Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
+lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
+R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 
 ### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
