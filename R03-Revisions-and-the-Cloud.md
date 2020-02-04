@@ -11,8 +11,6 @@ Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learnin
 Revisions-and-the-Cloud  | [Revisions-and-the-Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 
 
-
-
 ### what is Git?
 ##### Git is a `DVCS` that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it.
 ##### The `DVCS` is:- A Distributed Version Control systems, `DVCS` allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
