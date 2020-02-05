@@ -25,5 +25,5 @@ if (age > 69 ) {
   }
  document.write('<h1>  Note:  '+note+'   </h1>');
 
- document.write('<h2> Name:    '+Name+'             Age:   ' +age+'             Pet Name: '+pet+'</h2>');
+ document.write('<h2> Name:    '+Name+'                       Age:   ' +age+'                     Pet Name: '+pet+'</h2>');
 //  the reason is  to print  client data after entring the wibsite.
