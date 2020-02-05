@@ -11,6 +11,7 @@ Learning Markdown | [Learning Markdown](https://abdallah-obaid.github.io/learnin
 lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-obaid.github.io/learning-journal/R03-Revisions-and-the-Cloud).
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
+R06a Dynamic web pages with JavaScript  | [R06a Dynamic web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/R06a-Dynamic-web-pages-with-JavaScript).
 
 
 ### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.
