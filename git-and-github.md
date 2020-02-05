@@ -12,6 +12,7 @@ lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-ob
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 R06a Dynamic web pages with JavaScript  | [R06a Dynamic web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/R06a-Dynamic-web-pages-with-JavaScript).
+R06b Computer Architecture and Logic  | [R06b Computer Architecture and Logic](https://abdallah-obaid.github.io/learning-journal/R06b-Computer-Architecture-and-Logic).
 
 
 ## @#$W%
