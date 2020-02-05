@@ -12,6 +12,7 @@ lab Revisions and the Cloud  | [lab Revisions and the Cloud](https://abdallah-ob
 R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https://abdallah-obaid.github.io/learning-journal/R04-Structure-web-pages-with-HTML).
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 R06a Dynamic web pages with JavaScript  | [R06a Dynamic web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/R06a-Dynamic-web-pages-with-JavaScript).
+
 # To copey and merge repo file:-
 * Create new repo on GitHub and name it practice-js.
 * Clone this repo on your computer locally inside projects folder.
