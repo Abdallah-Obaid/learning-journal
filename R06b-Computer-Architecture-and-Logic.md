@@ -13,6 +13,8 @@ R04 Structure web pages with HTML  | [R04 Structure web pages with HTML](https:/
 R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdallah-obaid.github.io/learning-journal/R05-Design-web-pages-with-CSS).
 R06a Dynamic web pages with JavaScript  | [R06a Dynamic web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/R06a-Dynamic-web-pages-with-JavaScript).
 R06b Computer Architecture and Logic  | [R06b Computer Architecture and Logic](https://abdallah-obaid.github.io/learning-journal/R06b-Computer-Architecture-and-Logic).
+L06 Activate web pages with JavaScript  | [L06 Activate web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/L06-Activate-web-pages-with-JavaScript.Html).
+
 
 # What makes a computer a computer?
 #### There are basic building blocks to a computer, which, like Lego bricks, can be combined in billions of different ways to make loads of different things. But unlike Lego, these building blocks don’t have to look the same. They could be links on a chain or mechanical gears or pulses of electricity. What they have in common is that they respond to different inputs in different ways.
