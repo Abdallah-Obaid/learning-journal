@@ -14,6 +14,7 @@ R05 Design web pages with CSS  | [R05 Design web pages with CSS](https://abdalla
 R06a Dynamic web pages with JavaScript  | [R06a Dynamic web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/R06a-Dynamic-web-pages-with-JavaScript).
 R06b Computer Architecture and Logic  | [R06b Computer Architecture and Logic](https://abdallah-obaid.github.io/learning-journal/R06b-Computer-Architecture-and-Logic).
 L06 Activate web pages with JavaScript  | [L06 Activate web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/L06-Activate-web-pages-with-JavaScript.Html).
+R07 Programming with JavaScript  | [R07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/R07-Programming-with-JavaScript).
 
 
 
