@@ -6,7 +6,8 @@ var pet = window.prompt("Do you have a pit");
 console.log("The name is=",pet);
 var age1; 
 var note;
- 
+function myFunction(age) {
+    
 if (age > 69 ) {
     note= 'You live alot! go and die!!'
     age1 = age;
@@ -22,6 +23,8 @@ if (age > 69 ) {
   } else {    age1 = 'WT*';
   console.log("false")
   }
+  return note;}
+  var note= myFunction(age);
  document.write('<h1>  Note:  '+note+'   </h1>');
 
  document.write('<h2> Name:    '+Name+'                       Age:   ' +age+'                     Pet Name: '+pet+'</h2>');
