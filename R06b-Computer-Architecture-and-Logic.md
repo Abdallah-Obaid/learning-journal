@@ -19,7 +19,6 @@ L07 Programming with JavaScript  | [L07 Programming with JavaScript](https://abd
 L08 Operators and Loops  | [L08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/L08-Operators-and-Loops.html).
 R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/R08-Operators-and-Loops).
 
-
 # What makes a computer a computer?
 #### There are basic building blocks to a computer, which, like Lego bricks, can be combined in billions of different ways to make loads of different things. But unlike Lego, these building blocks don’t have to look the same. They could be links on a chain or mechanical gears or pulses of electricity. What they have in common is that they respond to different inputs in different ways.
 #### hese blocks are called gates. They take in bits as input, compare them, and output others. This seems very simple – and it is! The complexity and amazing ability of computers comes from combining them.
