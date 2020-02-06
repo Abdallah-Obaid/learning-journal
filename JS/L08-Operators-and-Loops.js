@@ -6,12 +6,12 @@ while(age*1 != age){
     console.log("the age=",typeof age)
     var age = window.prompt("Dont be shy!,whats your age @@");
 }
-var pet = window.prompt("Do you have a pit");
+var pet = window.prompt("What is your pit name");
 console.log("The name is=",pet);
 var age1; 
 var advice;
-// for (var i = 0 ;1<=4;i++ ){ 
-// document.write('<h3>  hello    </h3>'); }
+for (var i = 0 ; i<=4;i++ ){ 
+document.write('<h3>  hello    </h3>'); }
 function myFunction(age) {
 
 if (age > 69 ) {
@@ -33,5 +33,5 @@ if (age > 69 ) {
   var advice= myFunction(age);
  document.write('<h1>  Advice:  '+advice+'   </h1>');
 
- document.write('<h2> Name:    '+Name+'                       Age:   ' +age+'                     Pet Name: '+pet+'</h2>');
+ document.write('<h2> Name:     '+Name+'                       Age:   ' +age+'                     Pet Name: '+pet+'</h2>');
 //  the reason is  to print  client data after entring the wibsite.
