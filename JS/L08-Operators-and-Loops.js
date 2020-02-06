@@ -2,14 +2,16 @@ var Name = window.prompt("Enter your name pls");
 console.log("The name is=",Name);
 var age = window.prompt("your age pls");
 console.log("The name is=",age);
-while(typeof age != typeof Number){
+while(age*1 != age){
     console.log("the age=",typeof age)
-    var age = window.prompt("your age pls");
+    var age = window.prompt("Dont be shy!,whats your age @@");
 }
 var pet = window.prompt("Do you have a pit");
 console.log("The name is=",pet);
 var age1; 
 var advice;
+// for (var i = 0 ;1<=4;i++ ){ 
+// document.write('<h3>  hello    </h3>'); }
 function myFunction(age) {
 
 if (age > 69 ) {
