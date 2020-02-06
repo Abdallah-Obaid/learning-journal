@@ -29,5 +29,5 @@ R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.git
 * switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
 * Data types can be coerced from one type to another. 
 * All values evaluate to either truthy or falsy. 
-* There are three types of loop: for, while, and do ... while. Each repeats a set of statements. 
+* There are three types of loop: for, while, and do .... while. Each repeats a set of statements. 
 ![While](https://thumbs.gfycat.com/SophisticatedWhisperedHamadryas-small.gif)
