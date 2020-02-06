@@ -30,4 +30,4 @@ R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.git
 * Data types can be coerced from one type to another. 
 * All values evaluate to either truthy or falsy. 
 * There are three types of loop: for, while, and do ... while. Each repeats a set of statements. 
-![JS](https://media0.giphy.com/media/XaefzCVVqg4Uw/source.gif)
+![While](https://thumbs.gfycat.com/SophisticatedWhisperedHamadryas-small.gif)
