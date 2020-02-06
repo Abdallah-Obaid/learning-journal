@@ -6,7 +6,7 @@ while(age*1 != age){
     console.log("the age=",typeof age)
     var age = window.prompt("Dont be shy!,whats your age @@");
 }
-var pet = window.prompt("What is your pit name");
+var pet = window.prompt("What is your pet name");
 console.log("The name is=",pet);
 var age1; 
 var advice;
