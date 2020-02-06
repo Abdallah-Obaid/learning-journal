@@ -22,7 +22,7 @@ R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.git
 ----------------------------------
 ----------------------------------
 ----------------------------------
-* WE use while when we want the client to put the true vale in the prompt>
+* We use while when we want the client to put the true vale in the prompt>
 * Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
 * Logical operators allow you to combine more than one set of comparison operators. 
 * if ... else statements allow you to run one set of code if a condition is true, and another if it is false. 
