@@ -16,6 +16,7 @@ R06b Computer Architecture and Logic  | [R06b Computer Architecture and Logic](h
 L06 Activate web pages with JavaScript  | [L06 Activate web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/L06-Activate-web-pages-with-JavaScript.Html).
 R07 Programming with JavaScript  | [R07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/R07-Programming-with-JavaScript).
 L07 Programming with JavaScript  | [L07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/L07-Programming-with-JavaScript.HTML).
+L08 Operators and Loops  | [L08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/L08-Operators-and-Loops.html).
 
 
 ### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.

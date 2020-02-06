@@ -16,6 +16,7 @@ R06b Computer Architecture and Logic  | [R06b Computer Architecture and Logic](h
 L06 Activate web pages with JavaScript  | [L06 Activate web pages with JavaScript](https://abdallah-obaid.github.io/learning-journal/L06-Activate-web-pages-with-JavaScript.Html).
 R07 Programming with JavaScript  | [R07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/R07-Programming-with-JavaScript).
 L07 Programming with JavaScript  | [L07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/L07-Programming-with-JavaScript.HTML).
+L08 Operators and Loops  | [L08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/L08-Operators-and-Loops.html).
 
 
 ## *I can create a heading by adding one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
