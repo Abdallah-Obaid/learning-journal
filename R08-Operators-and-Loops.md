@@ -1,4 +1,4 @@
-# R06a-Dynamic-web-pages-with-JavaScript
+# R08 Operators and Loops
 > By Abdallah obaid
 
 **NAME** | **URL**
@@ -18,20 +18,16 @@ R07 Programming with JavaScript  | [R07 Programming with JavaScript](https://abd
 L07 Programming with JavaScript  | [L07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/L07-Programming-with-JavaScript.HTML).
 L08 Operators and Loops  | [L08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/L08-Operators-and-Loops.html).
 R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/R08-Operators-and-Loops).
-
-
-# To copey and merge repo file:-
-* Create new repo on GitHub and name it practice-js.
-* Clone this repo on your computer locally inside projects folder.
-* Go to https://github.com/LTUC/amman-102d3/ and clone this repo on your computer locally inside projects folder. 
-* Now, we want to copy a starter code from class-06 folder that is inside the amman-102d6 repo to our repo practice-js using this command:   cp -r amman-102d3/class-06/starter-code/* practice-js. 
-* Open your practice-js project on Vscode.
-* Create new HTML file and name it add-content.html and copy the following code inside it. 
-* Create new folder and name it (js) then create a file inside this folder and name add-content.js and copy the following code inside it. 
-* Create new folder and name it (js) then create a file inside this folder and name add-content.js and copy the following code inside it. 
-* Open the HTML file in your browser. You should see that the JavaScript has added a greeting (in this case, Good Afternoon!) to the page. (These greetings are coming from the JavaScript file; they are not in the HTML file.) 
- 
-
-
-
-![copey](https://media.giphy.com/media/HufOeXwDOInlK/giphy.gif)
+# Operators and Loops:-
+----------------------------------
+----------------------------------
+----------------------------------
+* WE use while when we want the client to put the true vale in the prompt>
+* Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
+* Logical operators allow you to combine more than one set of comparison operators. 
+* if ... else statements allow you to run one set of code if a condition is true, and another if it is false. 
+* switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
+* Data types can be coerced from one type to another. 
+* All values evaluate to either truthy or falsy. 
+* There are three types of loop: for, while, and do ... while. Each repeats a set of statements. 
+![JS](https://media0.giphy.com/media/XaefzCVVqg4Uw/source.gif)

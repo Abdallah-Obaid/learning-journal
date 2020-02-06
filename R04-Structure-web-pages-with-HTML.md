@@ -17,6 +17,7 @@ L06 Activate web pages with JavaScript  | [L06 Activate web pages with JavaScrip
 R07 Programming with JavaScript  | [R07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/R07-Programming-with-JavaScript).
 L07 Programming with JavaScript  | [L07 Programming with JavaScript](https://abdallah-obaid.github.io/learning-journal/L07-Programming-with-JavaScript.HTML).
 L08 Operators and Loops  | [L08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/L08-Operators-and-Loops.html).
+R08 Operators and Loops  | [R08 Operators and Loops ](https://abdallah-obaid.github.io/learning-journal/R08-Operators-and-Loops).
 
 
 ### It's important to understand who your target audience  X is, why they would come to your site, what information they want to find and when they are likely to return.
